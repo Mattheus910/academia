@@ -56,7 +56,7 @@ h3, .direitos, .button {
 
 body{
     background-color: #000;
-    min-width: 100vw;
+    /* min-width: 100vw; */
     height: 100vh;
     color: #fff;
     position: absolute;
@@ -115,6 +115,10 @@ p{
     align-items: center;
     margin-top: 20px;
     font-size: 1rem;
+}
+
+a:hover, li:hover{
+    scale: 1.1;
 }
 
 .info {
@@ -299,9 +303,16 @@ hr{
 }
 
 .direitos{
+    display: flex;
+    flex-direction: column;
     width: 100%;
     height: 40px;
     margin-top: 10px;
+}
+
+.direitos p {
+    font-size: 13px;
+    font-weight: 500;
 }
 
 
