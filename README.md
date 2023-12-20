@@ -13,10 +13,10 @@ Para incrementar a experiência visual, integrei a biblioteca AOS (Animate on Sc
 ## Demonstração Visual 📸🎥
 
 ### Mobile
-![Screenshot Mobile](../images/mobile.png)
+![Screenshot Mobile](images/mobile.png)
 
 ### Desktop
-![Screenshot Desktop](../images/desktop.png)
+![Screenshot Desktop](images/desktop.png)
 
 ### Vídeo de Demonstração
 [Link para o Vídeo](link_para_video)
